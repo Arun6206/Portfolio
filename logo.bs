@@ -1,0 +1,6 @@
+/your-project-folder
+    /index.html
+    /styles.css
+    /scripts.js
+    /instagram-logo.png
+    /youtube-logo.png
